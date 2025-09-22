@@ -27,7 +27,8 @@ else:
     print("a is equal to b")
 
 
-print("moussa", end=" ")
+print("moussa", end"")
+print()
 print("kaouk")
 
 
