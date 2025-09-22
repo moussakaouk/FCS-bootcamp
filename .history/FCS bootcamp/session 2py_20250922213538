@@ -26,8 +26,15 @@ elif a < b:
 else:
     print("a is equal to b")
 
-
-
+line = 5
+i = 1
+while (i <= lines):
+    j = 1
+    while i < j:
+        print("*")
+        j += 1
+    print()
+    i += 1
 
 
 

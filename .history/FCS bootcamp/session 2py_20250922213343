@@ -26,9 +26,12 @@ elif a < b:
 else:
     print("a is equal to b")
 
-
-
-
+f = 0
+while (f < 5):
+    h = 1
+    while h < f:
+        print("*")
+        
 
 
 

@@ -17,20 +17,11 @@ else:
     print("Invalid age")
 
 
-a = 10
-b = 20
-if a > b:
-    print("a is greater than b")
-elif a < b:
-    print("a is less than b")
-else:
-    print("a is equal to b")
-
-
-
-
-
-
+a = 0
+while a < 5:
+    print("*")
+    a += 1
+    p
 
 
 

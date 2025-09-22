@@ -7,7 +7,7 @@ else:
     print("n is equal to 10")
 
 
-age = -17
+age = 20
 if age > 0:
     if age >18:
         print("You are an adult")
@@ -15,23 +15,3 @@ if age > 0:
         print("You are a minor")
 else:
     print("Invalid age")
-
-
-a = 10
-b = 20
-if a > b:
-    print("a is greater than b")
-elif a < b:
-    print("a is less than b")
-else:
-    print("a is equal to b")
-
-
-
-
-
-
-
-
-
-

@@ -27,7 +27,13 @@ else:
     print("a is equal to b")
 
 
-
+ = 0
+while (f < 5):
+    h = 1
+    while h < f:
+        print("*")
+        h += 1
+    print()
 
 
 
