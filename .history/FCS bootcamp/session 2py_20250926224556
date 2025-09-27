@@ -59,6 +59,3 @@ while i <= rows:
         j += 1
     print()
     i += 1 
-
-print(4, end="wlm")
-print(5)

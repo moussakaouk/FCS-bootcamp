@@ -33,32 +33,7 @@ print("kaouk")
 
 
 print("Moussa")
-name = "Moussa"
-age = 22
-print("My name is",name,"and I am",age,"years old")
+name = "Moussa
 
 
-a = 5
-b = 3.5
-c = "football"
-print("The type of a is",type(a),", and the type of b is",type(b),", and the type of c is",type(c))
 
-
-m = int("42")
-m +=8 
-print(m)
-
-
-rows = 5 
-
-i = 1
-while i <= rows:
-    j = 1
-    while j <= i:
-        print("*", end="")
-        j += 1
-    print()
-    i += 1 
-
-print(4, end="wlm")
-print(5)
