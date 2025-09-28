@@ -9,7 +9,7 @@ while (i <= lines):
     i += 1  
 
 
-print("Below is another method for the same output")
+print("Below is another method for the same output", end)
 
 i = 1 
 while i <=5:
