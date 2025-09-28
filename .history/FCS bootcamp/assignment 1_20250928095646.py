@@ -8,4 +8,3 @@ while (i <= lines):
     print()
     i += 1  
 
-# this is a comment
