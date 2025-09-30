@@ -24,26 +24,25 @@ for rows in range(1,6):
         
 
 
-#total = 0 
-
-#while True:
-#    number = int(input("Enter a number (-1 to quit): "))
-#    print("The total now is: ",total)
-#    if number == -1:
-#        break
-#    total = total + number 
-#    print("The total at the end is now: ",total)
-
-#print("total: ",total)
-
-
-
+total = 0 
 
 while True:
-    number = int(input("Guess the number: "))
+    number = int(input("Enter a number (-1 to quit): "))
+    print("The total now is: ",total)
+    if number == -1:
+        break
+    total = total + number 
+    print("The total at the end is now: ",total)
+
+print("total: ",total)
+
+
+
+number = 7
+
+while True:
+    input=
     if number == 7:
         print("You guessed it right!")
         break
     print("Try again")
-
-

@@ -1,0 +1,66 @@
+n = 10      
+if (n<10):
+    print("n is a positive number")
+elif (n>10):
+    print("n is greater than 10")
+else:
+    print("n is equal to 10")
+
+
+age = -17
+if age > 0:
+    if age >18:
+        print("You are an adult")
+    else:
+        print("You are a minor")
+else:
+    print("Invalid age")
+
+
+a = 10
+b = 20
+if a > b:
+    print("a is greater than b")
+elif a < b:
+    print("a is less than b")
+else:
+    print("a is equal to b")
+
+
+print("moussa", end=" ")
+print("kaouk")
+
+
+
+print("Moussa")
+name = "Moussa"
+age = 22
+print("My name is",name,"and I am",age,"years old")
+
+
+a = 5
+b = 3.5
+c = "football"
+print("The type of a is",type(a),", and the type of b is",type(b),", and the type of c is",type(c))
+
+
+m = int("42")
+m +=8 
+print(m)
+
+
+rows = 5 
+
+i = 1
+while i <= rows:
+    j = 1
+    while j <= i:
+        print("*", end="")
+        j += 1
+    print()
+    i += 1 
+
+print(4, end="wlm")
+print(5)
+
+

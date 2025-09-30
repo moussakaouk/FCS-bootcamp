@@ -32,18 +32,16 @@ for rows in range(1,6):
 #    if number == -1:
 #        break
 #    total = total + number 
-#    print("The total at the end is now: ",total)
+    print("The total at the end is now: ",total)
 
-#print("total: ",total)
+print("total: ",total)
 
 
 
 
 while True:
-    number = int(input("Guess the number: "))
+    number = input("Guess the")
     if number == 7:
         print("You guessed it right!")
         break
     print("Try again")
-
-

@@ -31,19 +31,17 @@ for rows in range(1,6):
 #    print("The total now is: ",total)
 #    if number == -1:
 #        break
-#    total = total + number 
-#    print("The total at the end is now: ",total)
+   total = total + number 
+    print("The total at the end is now: ",total)
 
-#print("total: ",total)
+print("total: ",total)
 
 
 
 
 while True:
-    number = int(input("Guess the number: "))
+    number = input("Guess the")
     if number == 7:
         print("You guessed it right!")
         break
     print("Try again")
-
-

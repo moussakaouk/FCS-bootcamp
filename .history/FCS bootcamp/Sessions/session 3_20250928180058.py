@@ -40,10 +40,8 @@ for rows in range(1,6):
 
 
 while True:
-    number = int(input("Guess the number: "))
+    number = input("Guess the number: ")
     if number == 7:
         print("You guessed it right!")
         break
     print("Try again")
-
-

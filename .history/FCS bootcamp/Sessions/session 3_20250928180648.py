@@ -45,5 +45,3 @@ while True:
         print("You guessed it right!")
         break
     print("Try again")
-
-
