@@ -29,5 +29,5 @@ while attempts < max_attempts:
             print(max_attempts - attempts, "attempt(s) left")
         
 if not loggedin:
-    print("Account Locked")
+    print("Account Locked.")
         
