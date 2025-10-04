@@ -59,7 +59,3 @@ while True:
     print("The total at the end of the loop is:",total)
 
 print(total)
-
-
-
-

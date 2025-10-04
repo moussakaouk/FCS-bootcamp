@@ -39,12 +39,12 @@ for rows in range(1,6):
 
 
 
-# while True:
-#     number = int(input("Guess the number: "))
-#     if number == 7:
-#         print("You guessed it right!")
-#         break
-#     print("Try again")
+""" while True:
+    number = int(input("Guess the number: "))
+    if number == 7:
+        print("You guessed it right!")
+        break
+    print("Try again")
 
 total = 0
 
@@ -59,7 +59,3 @@ while True:
     print("The total at the end of the loop is:",total)
 
 print(total)
-
-
-
-
